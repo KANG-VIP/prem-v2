@@ -5,6 +5,6 @@ git clone https://github.com/KANG-VIP/prem-v2
 
 cd prem-v2
 
-Mulai Crack : python runenc.py
+Mulai Crack : python gal.py
 
 Cek Opsi Cp : python cekopsienc.py
